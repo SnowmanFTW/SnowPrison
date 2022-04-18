@@ -1,0 +1,6 @@
+main: me.snowman.snowprison.SnowPrison
+name: SnowPrison
+version: 0.0.1.1
+description: Prison core with a lot of functionality
+api-version: 1.18
+author: SnowmanFTW
